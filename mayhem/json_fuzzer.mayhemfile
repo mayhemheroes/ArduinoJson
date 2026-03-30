@@ -1,0 +1,4 @@
+project: PROJECT
+target: json_fuzzer
+cmds:
+- cmd: /out/json_fuzzer
