@@ -1,0 +1,5 @@
+project: ArduinoJson
+target: json_fuzzer
+cmds:
+  - cmd: /mayhem/json_fuzzer
+    libfuzzer: true
